@@ -25,7 +25,7 @@
     </style>
 </head>
 
-<body class="bg-gradient-warning">
+<body class="bg-gradient-success">
 
     <div class="container">
 
@@ -39,7 +39,6 @@
                         <!-- Nested Row within Card Body -->
                         <div class="row">
                             <div class="col-lg-6 d-none d-lg-block bg-login">
-                            <img src="https://i.postimg.cc/x18X8yxv/squidward.png" width="" length="" class="img-thumbnail">
                             </div>
                             <div class="col-lg-6">
                                 <div class="p-5">

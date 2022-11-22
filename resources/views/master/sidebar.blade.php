@@ -10,7 +10,7 @@
                 <div class="sidebar-brand-icon ">
                     <img src="https://i.postimg.cc/NM2233Zh/Logo-nobg.png" alt="" style="width: 50px;">
                 </div>
-                <div class="sidebar-brand-text mx-3">SMKN 1 SURABAYA
+                <div class="sidebar-brand-text mx-3">12 RPL 2
                 </div>
             </a>
 
@@ -18,27 +18,32 @@
             <hr class="sidebar-divider my-0">
 
             <!-- Nav Item - Dashboard -->
+            
+
+            <li class="nav-item">
+                <a class="nav-link" href="/dashboard">
+                <i class="fas fa-fw fa-user"></i>
+                    <span>Dashboard</span></a>
             </li>
+            <hr class="sidebar-divider my-0">
+
             <!-- Divider -->
-            <li class="nav-item bg-gradient-danger">
+            <li class="nav-item">
                 <a class="nav-link" href="/mastersiswa">
                 <i class="fas fa-fw fa-user"></i>
                     <span>Master Siswa</span></a>
-                    <hr class="sidebar-divider">
             </li>
 
-            <li class="nav-item bg-gradient-warning">
+            <li class="nav-item">
                 <a class="nav-link" href="/masterproject">
                     <i class="fas fa-fw fa-book"></i>
                     <span>Master Project</span></a>
-                    <hr class="sidebar-divider">
             </li>
 
-            <li class="nav-item bg-gradient-success">
+            <li class="nav-item">
                 <a class="nav-link" href="/masterkontak">
                     <i class="fas fa-fw fa-address-card"></i>
                     <span>Master Kontak</span></a>
-                    <hr class="sidebar-divider">
             </li>
 
             <!-- Heading -->
